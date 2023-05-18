@@ -35,11 +35,11 @@ markup:
 
 # Social links in footer, support github,twitter,stackoverflow,facebook
 social:
-  # e.g.
-  github: your-github-link
+  #e.g.
+  github: https://github.com/blograsyid
   twitter: your-github-link
   stackoverflow: your-github-link
-  # facebook: your-facebook-link
+  facebook: your-facebook-link
 
 # Site parameters
 params:
